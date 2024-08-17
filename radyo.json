@@ -13,6 +13,13 @@
       "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=1405&yayinno=1",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/power-turk-dinle.png",
       "src": "frame"
+    },
+    {
+      "name": "radyotrafikankara",
+      "description": "Radyo Trafik Ankara",
+      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=7743&yayinno=1",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-trafik-ankara.jpg",
+      "src": "frame"
     }
   ]
 }
