@@ -69,6 +69,13 @@
       "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=541&yayinno=1",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/babaradyo-100x100.jpg",
       "src": "frame"
+    },
+    {
+      "name": "doksanlarfm",
+      "description": "Doksanlar FM",
+      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=2191&yayinno=1",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/doksanlar-fm-dinle.jpg",
+      "src": "frame"
     }
 
   ]
