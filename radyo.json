@@ -20,6 +20,13 @@
       "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=7743&yayinno=1",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-trafik-ankara.jpg",
       "src": "frame"
+    },
+    {
+      "name": "bestfm",
+      "description": "Best FM",
+      "url": "https://bestfm.turkhosted.com/",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png",
+      "src": "frame"
     }
   ]
 }
