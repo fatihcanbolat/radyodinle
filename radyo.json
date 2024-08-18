@@ -76,6 +76,13 @@
       "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=2191&yayinno=1",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/doksanlar-fm-dinle.jpg",
       "src": "frame"
+    },
+    {
+      "name": "slowturk",
+      "description": "Slow Türk",
+      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8ff&radyoid=102&yayinno=1",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/slow-turk-dinle.jpg",
+      "src": "frame"
     }
 
   ]
