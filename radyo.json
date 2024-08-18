@@ -34,6 +34,13 @@
       "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=781&yayinno=1",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kral-fm-dinle.jpg",
       "src": "frame"
+    },
+    {
+      "name": "kafaradyo",
+      "description": "Kafa Radyo",
+      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=3296&yayinno=1",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kafa-radyo.jpg",
+      "src": "frame"
     }
   ]
 }
