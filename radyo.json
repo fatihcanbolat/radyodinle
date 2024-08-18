@@ -41,6 +41,28 @@
       "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=3296&yayinno=1",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kafa-radyo.jpg",
       "src": "frame"
+    },
+    {
+      "name": "ostimradyo",
+      "description": "Ostim Radyo",
+      "url": "https://www.canliradyodinle.fm/radyo-cal?type=shoutcast&radyoid=305&yayinno=1",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/ostim-radyo.jpg",
+      "src": "frame"
+    },
+    {
+      "name": "polisradyosu",
+      "description": "Polis Radyosu",
+      "url": "https://www.canliradyodinle.fm/radyo-cal?type=shouthtml&radyoid=8409&yayinno=1",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/polis-radyosu-turk-sanat-muzigi.jpg",
+      "src": "frame"
+    },
+    {
+      "name": "virginradyo",
+      "description": "Virgin Radyo",
+      "url": "https://www.canliradyodinle.fm/radyo-cal?type=shouthtml&radyoid=183&yayinno=1",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/virgin-radio.jpg",
+      "src": "frame"
     }
+
   ]
 }
