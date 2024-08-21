@@ -129,7 +129,7 @@
     {
       "name": "radyoseymen",
       "description": "Radyo Seymen",
-      "url": "http://yayin.radyoseymen.com.tr:1070/",
+      "url": "https://yayin.radyoseymen.com.tr:1070/stream?/;stream.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-seymen-canli.png",
       "src": "url"
     }
