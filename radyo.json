@@ -24,7 +24,7 @@
     {
       "name": "bestfm",
       "description": "Best FM",
-      "url": "https://bestfm.turkhosted.com/",
+      "url": "https://bestfm.turkhosted.com/;stream.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png",
       "src": "frame"
     },
