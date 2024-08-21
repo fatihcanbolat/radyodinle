@@ -90,6 +90,13 @@
       "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=460&yayinno=1",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kuran-radyo.jpg",
       "src": "frame"
+    },
+    {
+      "name": "radyofenomen",
+      "description": "Radyo Fenomen",
+      "url": "https://live.powerapp.com.tr/fenomen/mpeg/icecast.audio",
+      "logo": "https://www.ramazansancar.com.tr/radyo/posters/radyo_fenomen.png",
+      "src": "url"
     }
 
   ]
