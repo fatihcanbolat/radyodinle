@@ -10,7 +10,7 @@
     {
       "name": "powerfm",
       "description": "Power FM",
-      "url": "https://live.powerapp.com.tr/powerfm/mpeg/icecast.audio",
+      "url": "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/power-turk-dinle.png",
       "src": "url"
     },
