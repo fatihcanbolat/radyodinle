@@ -26,21 +26,21 @@
       "description": "Best FM",
       "url": "https://bestfm.turkhosted.com/;stream.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "kralfm",
       "description": "Kral FM",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=781&yayinno=1",
+      "url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kral-fm-dinle.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "kafaradyo",
       "description": "Kafa Radyo",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=3296&yayinno=1",
+      "url": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kafa-radyo.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "ostimradyo",
@@ -52,9 +52,16 @@
     {
       "name": "polisradyosu",
       "description": "Polis Radyosu",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=shouthtml&radyoid=8409&yayinno=1",
+      "url": "https://m.egm.gov.tr:8093/stream?/;stream.mp3",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/polis-radyosu.jpg",
+      "src": "url"
+    },
+    {
+      "name": "polisradyosutsm",
+      "description": "Polis Radyosu TSM",
+      "url": "https://m.egm.gov.tr:8095/stream?/;stream.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/polis-radyosu-turk-sanat-muzigi.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "virginradyo",
