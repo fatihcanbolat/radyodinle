@@ -132,6 +132,13 @@
       "url": "https://yayin.radyoseymen.com.tr:1070/stream?/;stream.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-seymen-canli.png",
       "src": "url"
+    },
+    {
+      "name": "radyobanko",
+      "description": "Radyo Banko",
+      "url": "https://stream.netradyom.com/listen/radyobanko/radio.mp3/;stream.mp3",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-banko.jpg",
+      "src": "url"
     }
 
   ]
