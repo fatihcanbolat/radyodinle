@@ -66,9 +66,9 @@
     {
       "name": "babaradyo",
       "description": "Baba Radyo",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=541&yayinno=1",
+      "url": "http://37.247.98.7:80/;stream.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/babaradyo-100x100.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "doksanlarfm",
