@@ -45,9 +45,9 @@
     {
       "name": "ostimradyo",
       "description": "Ostim Radyo",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=shoutcast&radyoid=305&yayinno=1",
+      "url": "https://stream.netradyom.com/radio/8010/radio.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/ostim-radyo.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "polisradyosu",
