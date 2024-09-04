@@ -66,37 +66,30 @@
     {
       "name": "virginradyo",
       "description": "Virgin Radyo",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=shouthtml&radyoid=183&yayinno=1",
+      "url": "https://karnaval.com/listen/virginradio#/;stream.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/virgin-radio.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "babaradyo",
       "description": "Baba Radyo",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=541&yayinno=1",
+      "url": "https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/babaradyo-100x100.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "doksanlarfm",
       "description": "Doksanlar FM",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=2191&yayinno=1",
+      "url": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/doksanlar-fm-dinle.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "slowturk",
       "description": "Slow Türk",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8ff&radyoid=102&yayinno=1",
+      "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/slow-turk-dinle.jpg",
-      "src": "frame"
-    },
-     {
-      "name": "diyanetkuran",
-      "description": "Diyanet Kuran Radyo",
-      "url": "https://www.canliradyodinle.fm/radyo-cal?type=m3u8&radyoid=460&yayinno=1",
-      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/kuran-radyo.jpg",
-      "src": "frame"
+      "src": "url"
     },
     {
       "name": "radyofenomen",
