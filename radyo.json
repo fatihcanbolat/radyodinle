@@ -132,6 +132,47 @@
       "url": "https://stream.netradyom.com/listen/radyobanko/radio.mp3/;stream.mp3",
       "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-banko.jpg",
       "src": "url"
+    },
+    {
+      "name": "radyovoyage",
+      "description": "Radyo Voyage",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VOYAGE_SC?/",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-voyage.jpg",
+      "src": "url"
+    },
+    {
+      "name": "radyoeksen",
+      "description": "Radyo Eksen",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADYO_EKSEN_SC?/",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-eksen.jpg",
+      "src": "url"
+    },
+    {
+      "name": "radyoviva",
+      "description": "Radyo Viva",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIVA_SC?/",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-viva.jpg",
+      "src": "url"
+    },
+    {
+      "name": "radyoalaturka",
+      "description": "Radyo Alaturka",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADYO_ALATURKA_SC?/",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-alaturka.jpg",
+      "src": "url"
+    },
+    {
+      "name": "radyoaspor",
+      "description": "Radyo Spor",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADYO_SPOR_SC?/",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-spor.jpg",
+      "src": "url"
+    },
+    {
+      "name": "radyooyun",
+      "description": "Radyo Oyun",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADYO_OYUN_SC?/",
+      "logo": "https://www.canliradyodinle.fm/wp-content/uploads/alem-fm.jpg"
     }
 
   ]
